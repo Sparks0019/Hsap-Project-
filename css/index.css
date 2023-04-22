@@ -62,7 +62,8 @@
     border-radius: 4px;
     width: 338px;
     height: 290px;
-    left: 122px;
+
+
 
 }
 .course-edit{
@@ -129,7 +130,7 @@ padding-top: 100px;
     font-style: normal;
     font-weight: 400;
     color: #667085;
-    width: 500px;
+    width: 100%;
 }
 .margin-closer{
     margin: auto;
@@ -140,14 +141,14 @@ padding-top: 100px;
     font-style: normal;
     font-weight: 400;
     color: #667085;
-    width: 500px;
+    width: 100%;
 }
 .required:after {
     content:" *";
     color: red;
 }
 .hsap-join{
-    width: 1000px;
+    width: 100%;
 }
 .program-edit{
         font-family: 'poppins';
